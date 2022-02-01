@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Robert Downey Jr. - Tribute</title>
 </head>
 <body background="back.jpg" style="background-size: 100%; color: rgb(78, 97, 97)">
     <h1  style="text-align: center; font-family: 'Courier New', Courier, monospace;  font-size: 300%;">
